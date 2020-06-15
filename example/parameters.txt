@@ -1,0 +1,3 @@
+interactionFile	species_interaction.csv
+occurrenceFile	association.csv
+countFile	SpeciesCount.txt

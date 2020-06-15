@@ -1,0 +1,2 @@
+Prefix plugins/MPLasso/example
+Plugin MPLasso inputfile parameters.txt outputfile output.csv
