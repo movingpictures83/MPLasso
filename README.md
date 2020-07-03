@@ -1,7 +1,9 @@
+# MPLasso
 # Language: R
 # Input: TXT
 # Output: CSV
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: MASS_7.3.51.6, Matrix_1.2.18, matrixcalc_1.0.3, glasso_1.11, ROCR_1.0.11, huge_1.3.4.1, MCMCpack_1.4.8, glmnet_4.0.2, parallel_4.0.0, matrixStats_0.56.0
 
 PluMA plugin to compute association networks using the MPLasso algorithm  (Lo and Marculescu, 2017).
 
